@@ -14,6 +14,7 @@ bundle install
 ## Executando os testes
 
 - Para executar todos os testes do projeto, execute o comando abaixo:
+
 bundle exec cucumber
 
 - Se preferir executar somente uma feature específica, execute o comando abaixo:
