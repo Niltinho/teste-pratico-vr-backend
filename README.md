@@ -17,5 +17,7 @@ bundle install
 bundle exec cucumber
 
 - Se preferir executar somente uma feature específica, execute o comando abaixo:
+
 cucumber .\features\remover_textos.feature
+
 cucumber .\features\api_test.feature
